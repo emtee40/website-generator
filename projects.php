@@ -51,6 +51,7 @@
 			if ($projects['description'] !== null)
 				echo '<p>Description: ' . $projects['description'] . '</p>' . PHP_EOL;
 			echo '<p>Link: <a href="' . $projects['html_url'] . '">' . $projects['html_url'] . '</a></p>' . PHP_EOL;
+			echo '<br/><br/>' . PHP_EOL;
 		}
 		
 	?>	
