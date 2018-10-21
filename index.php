@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Home - IODev Solutions</title>
     <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-    <link rel="stylesheet" href="~/assets/main.min.css" />
+    <link rel="stylesheet" href="assets/main.min.css" />
 </head>
 <body>
     <div class="site-header">
@@ -49,6 +49,6 @@
         <p>Copyright &copy; Ioan Moldovan <?php echo date("Y"); ?></p>
     </div>
 
-    <script src="~/assets/menu.min.js"></script>
+    <script src="assets/menu.min.js"></script>
 </body>
 </html>
