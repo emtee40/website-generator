@@ -15,9 +15,9 @@
         <nav class="site-nav">
             <a class="menu-toggle">&#x2261;</a>
             <ul>
-                <li><a href="index.php">Home</a></li>
-                <li class="active"><a href="about.php">About</a></li>
-                <li><a href="projects.php">Projects</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li class="active"><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
             </ul>
         </nav>
     </div>
