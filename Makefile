@@ -14,4 +14,4 @@ privacy.html: privacy.php
 	php privacy.php > static/privacy.html
 	
 clean:
-	rm -rf static
+	rm -rf static/*
