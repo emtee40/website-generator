@@ -1,4 +1,6 @@
 site: index.html about.html projects.html privacy.html
+	echo www.iodev.science > static/CNAME
+	cp LICENSE static/
 	cp -r assets static/
 index.html: index.php
 	mkdir -p static
